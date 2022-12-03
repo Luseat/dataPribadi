@@ -1,0 +1,31 @@
+table,tr,td{
+
+    font-family: century gothic;
+    color: black ;
+    border: 1px solid aqua;
+    padding: 5px;
+    background-color: white;
+
+    }
+
+    .posisi{
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-top: auto;
+    left: 0px;
+    right: 0;
+    top: 400px;
+    bottom: 0;
+
+    }
+    
+    body{
+    background-image: url('cakep.jpg');
+    background-repeat: no-repeat;
+    background-size: 1690px auto;
+    background-attachment: fixed;
+    
+    }
+    
